@@ -2,6 +2,7 @@
 
 This repo contains the starter code for the Route Planning project.
 
+![Screenshot](Screenshot_Route.JPG)
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
